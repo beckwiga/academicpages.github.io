@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name dsasada/ Site Title"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Greg Beckwith"
-description              : &description "personal description"
+name                     : &name
+description              : &description
 url                      : https://beckwiga.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Greg Beckwith"
+  pronouns         : # example: "he/him"
+  bio              : "BI Solutions Architect | SQL • ETL • Power BI • Snowflake"
+  location         : "Durham, North Carolina"
+  employer         : "James Madison University"
+  uri              : "https://www.linkedin.com/in/gregory-beckwith"
+  email            : "beckwiga@outlook.com"
 
   # Academic websites
   academia         : # URL
