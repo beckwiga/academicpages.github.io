@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Greg Beckwith"
-  pronouns         : # example: "he/him"
-  bio              : "BI Solutions Architect | SQL • ETL • Power BI • Snowflake"
+  name             : "Gregory Beckwith"
+  pronouns         : "he/him"
+  bio              : "BI Solutions Architect"
   location         : "Durham, North Carolina"
   employer         : "James Madison University"
-  uri              : "https://www.linkedin.com/in/gregory-beckwith"
+  uri              : "https://beckwiga.github.io"
   email            : "beckwiga@outlook.com"
 
   # Academic websites
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : gregory-beckwith
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
