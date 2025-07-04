@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Gregory Beckwith"
   pronouns         : # "he/him"
-  bio              : "BI Solutions Architect"
+  bio              : "Principal Solutions Architect"
   location         : "Durham, North Carolina"
   employer         : "James Madison University"
   uri              : "https://beckwiga.github.io"
@@ -46,11 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  linkedin         : gregory-beckwith
+  github           : "beckwiga"
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
@@ -61,7 +62,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : gregory-beckwith
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
