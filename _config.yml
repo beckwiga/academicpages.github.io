@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "title"
-title_separator          : " -  3213"
+title                    : "⌂"
+title_separator          : "-"
 name                     : &name
 description              : &description
 url                      : https://beckwiga.github.io
