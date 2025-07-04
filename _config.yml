@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
+site_theme               : "default"
 title                    : ""
 title_separator          : "-"
 name                     : &name
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Gregory Beckwith"
-  pronouns         : "he/him"
+  pronouns         : # "he/him"
   bio              : "BI Solutions Architect"
   location         : "Durham, North Carolina"
   employer         : "James Madison University"
