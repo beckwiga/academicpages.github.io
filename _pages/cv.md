@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Business Administration (BBA)
+  * Computer Information Systems
+  * James Madison University – Harrisonburg, VA 
+  * https://www.jmu.edu/academics/undergraduate/majors/computer-information-systems.shtml
 
 Work experience
 ======
